@@ -16,5 +16,25 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 - Structs com a utilizaçãovda linguagem programação C.
 - Estruturas dedados aninhadas,os vetores de estruturas e ai nstrução typedef usando a linguagem de programação C.
 
+<h3>Modularização</h3>   
+
+- Conceitos gerais de procedimentos e funções
+- Tipos de funções predefinidas na linguagem C
+- Passagem de parâmetros por valor e por referência
+- Escopo das variáveis locais e globais.
+ 
+
+<h3>Listas, Pilhas e Filas (crédito digital)</h3> 
+
+-  Principaisconceitosenvolvidosnamanipulaçãodedadosnamemória Contrastaçãodaformademanipulaçãoporencadeamentodamanipulaçãocomestruturassequenciais Algoritmosdasprincipaisoperações,baseadosnalinguagemC,eascaracterísticaspeculiaresdepilhas
+- Algoritmosdasprincipaisoperações,baseadosnalinguagemC,eascaracterísticaspeculiaresdefilas.
+
+
+<h3>Ordenação</h3> 
+
+- Conceitos fundamentaisdeordenaçãoparaaplicaçãodemétricasdeclassificaçãoeescolhaadequadadométodonaresoluçãodeproblemas
+- Algoritmosdeordenaçãodabolha,inserçãoeseleçãoparadesenvolvimentodesoluçãorápidaeeficienteparaimplementaçãoemlinguagemC.
+
+
 
 
