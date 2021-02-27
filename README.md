@@ -9,12 +9,11 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 - Agregados homogêneos (seqüência de valores de um mesmo tipo):heavy_check_mark:
 - Agregados heterogêneos (seqüência de valores de diferentes tipos):heavy_check_mark:<br>
 <img src="https://user-images.githubusercontent.com/61218420/109390673-d6bb9080-78f1-11eb-96ef-5a4a7090e99a.png" width="1000">
-<h3>Estruturas de Dados Heterogêneas</h3>
-
-- PonteiroscomautilizaçãodalinguagemdeprogramaçãoC.
-- Estruturadedadosheterogênea.
-- StructscomautilizaçãodalinguagemdeprogramaçãoC.
-- Estruturasdedadosaninhadas,osvetoresdeestruturaseainstruçãotypedefusandoalinguagemdeprogramaçãoC.
+<h3>Estruturas de Dados Heterogêneas</h3> 
+- Ponteiros com a utilização da linguagem de programação C.
+- Estrutura de dados heterogênea.
+- Structs com a utilizaçãovda linguagem programação C.
+- Estruturas dedados aninhadas,os vetores de estruturas e ai nstrução <h3>typedef</h3> usando a linguagem de programação C.
 
 
 
