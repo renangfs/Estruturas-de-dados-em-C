@@ -32,8 +32,8 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 
 <h3>Ordenação</h3> 
 
-- Conceitos fundamentaisdeordenaçãoparaaplicaçãodemétricasdeclassificaçãoeescolhaadequadadométodonaresoluçãodeproblemas
-- Algoritmosdeordenaçãodabolha,inserçãoeseleçãoparadesenvolvimentodesoluçãorápidaeeficienteparaimplementaçãoemlinguagemC.
+- Conceitos fundamentais   de ordenação para aplicação de métricas de classificação e escolha adequada do método na resolução de problemas
+- Algoritmos de ordenação da bolha, inserção e seleção para desenvolvimento de solução        rápida e eficiente para implementação em linguagem C.
 
 
 
