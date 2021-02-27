@@ -8,7 +8,7 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 - Um ponteiro armazena endereço de memória (os ponteiros são usados para gerenciar a memoria):heavy_check_mark:
 - Agregados homogêneos (seqüência de valores de um mesmo tipo):heavy_check_mark:
 - Agregados heterogêneos (seqüência de valores de diferentes tipos):heavy_check_mark:<br>
-- ![image](https://user-images.githubusercontent.com/61218420/109390673-d6bb9080-78f1-11eb-96ef-5a4a7090e99a.png)
+<img src="https://user-images.githubusercontent.com/61218420/109390673-d6bb9080-78f1-11eb-96ef-5a4a7090e99a.png" width="1000">
 
 
 
