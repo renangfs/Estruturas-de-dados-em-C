@@ -5,7 +5,7 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 
 <h1 align="center">Estruturas-de-dados-em-C</h1>
 
-- Um ponteiro armazena endereço de memória :heavy_check_mark:(os ponteiros são usados para gerenciar a memoria)
+- Um ponteiro armazena endereço de memória (os ponteiros são usados para gerenciar a memoria):heavy_check_mark:
 - Agregados homogêneos (seqüência de valores de um mesmo tipo):heavy_check_mark:
 - Agregados heterogêneos (seqüência de valores de diferentes tipos):heavy_check_mark:
 
