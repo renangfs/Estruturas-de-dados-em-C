@@ -26,7 +26,9 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 
 <h3>Listas, Pilhas e Filas (crédito digital)</h3> 
 
--  Principaisconceitosenvolvidosnamanipulaçãodedadosnamemória Contrastaçãodaformademanipulaçãoporencadeamentodamanipulaçãocomestruturassequenciais Algoritmosdasprincipaisoperações,baseadosnalinguagemC,eascaracterísticaspeculiaresdepilhas
+-  Principais conceitos envolvidos na manipulação de dados na memória
+-   Contrastação da forma de manipulação por encadeamento da manipulação com estruturas sequenciais 
+-   Algoritmos das principais operações,baseados na linguagem C,e as características peculiares de pilhas
 - Algoritmosdasprincipaisoperações,baseadosnalinguagemC,eascaracterísticaspeculiaresdefilas.
 
 
