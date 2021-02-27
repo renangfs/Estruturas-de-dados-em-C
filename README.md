@@ -13,7 +13,7 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 - Ponteiros com a utilização da linguagem de programação C.
 - Estrutura de dados heterogênea.
 - Structs com a utilizaçãovda linguagem programação C.
-- Estruturas dedados aninhadas,os vetores de estruturas e ai nstrução <h3>typedef</h3> usando a linguagem de programação C.
+- Estruturas dedados aninhadas,os vetores de estruturas e ai nstrução typedef usando a linguagem de programação C.
 
 
 
