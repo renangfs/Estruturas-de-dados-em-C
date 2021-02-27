@@ -29,7 +29,7 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 -  Principais conceitos envolvidos na manipulação de dados na memória
 -   Contrastação da forma de manipulação por encadeamento da manipulação com estruturas sequenciais 
 -   Algoritmos das principais operações,baseados na linguagem C,e as características peculiares de pilhas
-- Algoritmosdasprincipaisoperações,baseadosnalinguagemC,eascaracterísticaspeculiaresdefilas.
+- Algoritmos das principais operações,baseados na linguagem C,e as características peculiares de filas.
 
 
 <h3>Ordenação</h3> 
