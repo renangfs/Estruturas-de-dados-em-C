@@ -7,3 +7,7 @@ link da aula: https://liveestacio.sharepoint.com/sites/team_3681947/Shared%20Doc
 - Um ponteiro armazena endereço de memória
 - Agregados homogêneos (seqüência de valores de um mesmo tipo)
 - Agregados heterogêneos (seqüência de valores de diferentes tipos):heavy_check_mark:
+- abaco= primeira máquina de computar.
+- ENIAC= fez parte da primeira geração de computadores,funcionavam por meio de valvolas com o objetivo de descodificar codigos inimigos.
+- John von Neuman= matematico hungaro-americano. ele foi um dos construtores do ENIAC.
+
