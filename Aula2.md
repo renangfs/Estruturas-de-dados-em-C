@@ -1,6 +1,6 @@
 ### Aula 05/03/2021
 
-### vetor todos os elementos possuem o mesmo nome e são diferenciados pelo indice, na Linguagem C o indice é iniciado no 0 
+### Vetor--> todos os elementos possuem o mesmo nome e são diferenciados pelo indice, na Linguagem C o indice é iniciado no 0 
 ## Exemplo de Matriz 
       #include <stdio.h>// Matrix 5x5
       #include <stdlib.h>
