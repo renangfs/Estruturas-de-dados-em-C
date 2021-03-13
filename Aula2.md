@@ -26,5 +26,10 @@
 
 <a href="https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm">Tabela ASCII</a><br>
 <h1 align="center">Estruturas: struct<h1>
-  <h4>na estrutura heterogenea é misturado diferentes tipos de dados</h4>
+  <h4>Tipos de dados estruturados/h4>
+    
+ - Agregados Homogeneos - sequencia de valores de um mesmo tipo:
+ - Agregados HeterogêNEOS - sequência de valores de diferentes tipos   
 <img src="https://user-images.githubusercontent.com/61218420/111021827-cd302f00-83ad-11eb-8189-ed322774be74.png" width="700">
+  
+  
