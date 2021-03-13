@@ -23,4 +23,5 @@
 <img src="https://user-images.githubusercontent.com/61218420/111011105-2fba0880-8377-11eb-82b2-a7773d5ea449.png" width="500">
 
 
-<a href="https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm">Tabela ASCII</a>
+<a href="https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm">Tabela ASCII</a><br>
+<h1 align="center">Estruturas: struct<h1>
