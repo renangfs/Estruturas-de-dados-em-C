@@ -2,6 +2,6 @@
 AULA 3
 
 - estrutura de dados e como os dados são organizados
-<h1 align="center">Uniões (union)<h1>
-  <h3> Permitem em uma mesma região valores de tipos diferentes compartilhando um mesmo espaço de memória.</h3>
+<h1 align="center"> Apontadores (ponteiros)<h1>
+ 
     
