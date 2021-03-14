@@ -31,5 +31,6 @@
  - Agregados Homogeneos - sequencia de valores de um mesmo tipo:
  - Agregados Heterogêneos - sequência de valores de diferentes tipos   
 <img src="https://user-images.githubusercontent.com/61218420/111021827-cd302f00-83ad-11eb-8189-ed322774be74.png" width="700">
+
 - a variavel double é usadop para pegar os numeros mais precisos
   
