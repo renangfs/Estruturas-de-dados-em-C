@@ -22,5 +22,5 @@ AULA 3
             printf("\nValorde a foi alterado pelo ponteiro=%p valor de *pa=%d a=%d\n",pa, *pa, a); 
             return(0);}                   
        
-<img src="https://user-images.githubusercontent.com/61218420/111088992-9b7fab00-8508-11eb-82c0-37d798680e13.png" width="500">
+<img src="https://user-images.githubusercontent.com/61218420/111088992-9b7fab00-8508-11eb-82c0-37d798680e13.png" width="800">
 
