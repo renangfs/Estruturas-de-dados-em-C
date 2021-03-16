@@ -1,4 +1,5 @@
 ### Aula 05/03/2021
+link: https://web.microsoftstream.com/video/565df775-266f-42d1-8081-0f6583bbab12
 
 ### Vetor--> todos os elementos possuem o mesmo nome e são diferenciados pelo indice, na Linguagem C o indice é iniciado no 0 
   <h1 align="center"> Exemplo de Matriz </h1>
