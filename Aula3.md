@@ -1,4 +1,5 @@
 ### 14/03/2021
+link: https://web.microsoftstream.com/video/2a3b8efd-bb4b-4475-889f-7b017262d3c2
 AULA 3
 
 - estrutura de dados e como os dados são organizados
