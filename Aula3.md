@@ -3,6 +3,29 @@ link: https://web.microsoftstream.com/video/2a3b8efd-bb4b-4475-889f-7b017262d3c2
 AULA 3
 
 - estrutura de dados e como os dados são organizados
+<h1 align="center"> Estruturas: struct<h1>
+       <hr>
+<h2> homogeneos </h2>       
+<h3>Conjunto de elementos de mesmo tipo que podem ser acessados por um subscrito (indice). Podem possuir uma dimensão (vetores) ou mais de uma (matrizes).</h3>
+<h2> heterogeneos </h2>       
+<h3>Conjunto de elementos que podem ser de mesmo tipo existente, inclusive outros agregados (structs, unions, vetores,...)</h3>
+<h2> Struct </h2>     
+<h3>Funciona como o registro que já conhecemos. A variavel é composta de vários elementos, que podem ser de tipos diferentes e ela possui espaço reservado na memória para armazenar os valores de todos os seus elementos simultâneamente.</h3>
+       
+        Ex. struct empregado
+        { int matricula;
+         float salario;
+         char nome[31];
+         };
+<h2> Union </h2>   
+<h3>Uma variavel do tipo union, apesar de possuir declaração semelhante a struct (basta substituir struct por union) sua finalidade é  declarar uma variável que ora pode assumir um valor de um tipo ora de outro. Seu objetivo é a economia de memória.</h3>
+   
+         Ex. union pessoa
+          {
+          char CPF[12];
+          char CGC [20];
+           };
+
 <h1 align="center"> Apontadores (ponteiros)<h1>
 <h3> o ponteiro é uma variavel que armazena endereço de memoria,o ponteiro aponta sempre para o endereço do primeiro byte e sabendo o tipo é possivel saber quantos byte ele ocupa.</h3>
 <img src="https://user-images.githubusercontent.com/61218420/111085392-007dd580-84f6-11eb-898c-84824c32bbd1.png" width="500">
