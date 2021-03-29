@@ -34,13 +34,13 @@ link: https://web.microsoftstream.com/video/2fc17680-e294-4fd8-9ccb-e42d8e770592
 <img src="https://user-images.githubusercontent.com/61218420/112572709-7b35d300-8dc9-11eb-9a09-3fe6222a47c4.png" width="700">
 <img src="https://user-images.githubusercontent.com/61218420/112573943-0dd77180-8dcc-11eb-8467-5a7eda38440d.png" width="700">
 <img src="https://user-images.githubusercontent.com/61218420/112576545-4168ca80-8dd1-11eb-9736-faecb38af5f3.png" width="700">
-<h3>Malloc( )/h3>
+<h3>Malloc( )</h3>
   <h4>Essa função é usada para pedir ao sistema operacional um bloco de memoria aque o sizeof() especificar e a função malloc retorna o ponteiro do bloco alocado o ponteiro retornado é um ponteiro do tipo void (ponteiro generico)</h4>
- <h3>Free( )/h3>
+ <h3>Free( )</h3>
    <h4>A função free apenas desaloca os endereços da memoria RAM ,ela não apaga os ponteiros e nem os endereços</h4>
- <h3>Calloc( )/h3>
+ <h3>Calloc( )</h3>
    <h4>A função Calloc diferente da malloc, ela limpa os conteudo dos endereços</h4>
-<h3>Realloc( )/h3>
+<h3>Realloc( )</h3>
    <h4>tranfere o endereço para um endereçõ maior sem perder os conteudos</h4>
   
   
