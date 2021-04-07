@@ -1,5 +1,8 @@
-26/03/2021
+#### 26/03/2021
+#### link aula: https://web.microsoftstream.com/video/929f7a79-d4c2-46a0-a90c-eeee48d37e2c
 
+<h1 align="center">struct</h1>
+<h3>É uma estrutura que reune os dados em uma unica estrutura de memória</h3>+
 
 
 <h1 align="center">Exercicios</h1>
