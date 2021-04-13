@@ -1,6 +1,6 @@
 ### 09/04/2021
 link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a1
-<h1 align"center">Modularização</h1>
+<h1 align="center">Modularização</h1>
 <h4>A modularização visa a decomposição de algoritmos em módulos para dominar a complexidade e organizar o processo de programação.</h4>
 
 - funções = passagem por valor
@@ -24,6 +24,8 @@ link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a
       }
 <hr>
 <h3>Exemplo de um programa ligado a 2 sub programas</h3>
+<hr>
+
 
       #include <stdio.h>
       void incrementa_num(int *num){
