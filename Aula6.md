@@ -22,7 +22,7 @@ link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a
         printf("Num da main: %d\n", num);
         return 0;
       }
-      <hr>
+<hr>
       #include <stdio.h>
       void incrementa_num(int *num){
             (*num)++; //*num = *num + 1;
