@@ -23,12 +23,12 @@ link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a
         return 0;
       }
 <hr>
+
       #include <stdio.h>
       void incrementa_num(int *num){
             (*num)++; //*num = *num + 1;
             printf("\nNum incrementa_num = %d", *num);
       }
-
       void decrementa_num(int *num){
             (*num)--; //*num = *num + 1;
             printf("\nNum decrementa_num = %d", *num);
