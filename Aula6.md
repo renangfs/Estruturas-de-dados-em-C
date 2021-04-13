@@ -1,7 +1,7 @@
 ### 09/04/2021
 link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a1
 <h1 align"center">Modularização</h1>
-<h4>É a divisão do codigo em modulos</h4>
+<h4>A modularização visa a decomposição de algoritmos em módulos para dominar a complexidade e organizar o processo de programação.</h4>
 
 - funções = passagem por valor
 - scanf = passagem por referência
@@ -21,4 +21,29 @@ link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a
         incrementa_num(&num);//passa o endereco de num
         printf("Num da main: %d\n", num);
         return 0;
+      }
+      <hr>
+      #include <stdio.h>
+      void incrementa_num(int *num){
+            (*num)++; //*num = *num + 1;
+            printf("\nNum incrementa_num = %d", *num);
+      }
+
+      void decrementa_num(int *num){
+            (*num)--; //*num = *num + 1;
+            printf("\nNum decrementa_num = %d", *num);
+      }
+      int main(){
+            int num, opcao=0;
+            num = 10;
+            printf("\nOpcoes: \n1- Incrementar valor.\n2- Decrementar valor.");
+            scanf("%d", &opcao);
+            if(opcao==1){
+                  incrementa_num(&num);
+                  printf("\nNum main = %d\n", num);
+            } else {
+                  decrementa_num(&num);
+                  printf("\nNum main = %d\n", num);
+            }
+            return 0;
       }
