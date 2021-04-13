@@ -23,6 +23,7 @@ link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a
         return 0;
       }
 <hr>
+<h3>Exemplo de um programa ligado a 2 sub programas</h3>
 
       #include <stdio.h>
       void incrementa_num(int *num){
@@ -45,5 +46,34 @@ link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a
                   decrementa_num(&num);
                   printf("\nNum main = %d\n", num);
             }
+            return 0;
+      }
+       <hr>
+       <h3> variável global: pode ser usada por todad funções </h3>
+       <h3> variavel local : pode ser usada somente no local em que foi declarada </h3>
+       #include <stdio.h>
+
+      int varGlobal=10;
+
+      void incrementa_varGlobal(){
+            int num = 5;
+            varGlobal++;
+            printf("\nvarGlobal = %d", varGlobal);
+            printf("\nvnum = %d", num);
+      }
+      void decrementa_varGlobal(){
+            int num = 10;
+            varGlobal--;
+            printf("\nvarGlobal = %d", varGlobal);
+            printf("\nvnum = %d", num);
+      }
+      int main(){
+            int num=20;
+            printf("\nvarGlobal = %d", varGlobal);
+            incrementa_varGlobal();
+            printf("\nvarGlobal = %d", varGlobal);
+            decrementa_varGlobal();
+            printf("\nvarGlobal = %d", varGlobal);
+            printf("\nvnum = %d", num);
             return 0;
       }
