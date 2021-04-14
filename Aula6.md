@@ -67,7 +67,7 @@ Exercicio: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Calc_M
                   return 0;
             }
              <hr>
-  <h3> variável global: pode ser usada por todad funções </h3>
+  <h3> variável global: pode ser usada por todas funções </h3>
   <h3> variavel local : pode ser usada somente no local em que foi declarada </h3>
   
             #include <stdio.h>
