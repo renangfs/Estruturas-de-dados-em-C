@@ -7,6 +7,8 @@ link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a
 - scanf = passagem por referência
 - variaveis declaradas dentro das funçoes só são validas dentro das funções
 - as funçoes so podem interagir com a outra por referencia
+<img src="https://user-images.githubusercontent.com/61218420/114648451-2f35ca00-9cb5-11eb-89da-179c335eb71f.png" width="800">
+
 
 Exercicio area do circulo: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Area_dCirculo.cpp
 
