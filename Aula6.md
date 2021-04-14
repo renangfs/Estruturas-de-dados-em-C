@@ -15,7 +15,7 @@ Exercicio superfície da esfera: https://github.com/renangfs/Estruturas-de-dados
 Exercicio area do cilindro: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Area_dCilindro.cpp
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/61218420/114648084-94d58680-9cb4-11eb-829c-f05d249231c3.png" width="800">
+<img src="https://user-images.githubusercontent.com/61218420/114648356-09a8c080-9cb5-11eb-8652-db85279e3196.png" width="800">
 <br>
 <br>
 
