@@ -22,6 +22,7 @@ Exercicio area do cilindro: https://github.com/renangfs/Estruturas-de-dados-em-C
 
 
 
+
       #include <stdio.h>
       //ponteiro num (*num) ponteiro é um tipo de variavel que so armazena um endereço de mamoria
       void incrementa_num(int *num){//recebe o endereço de num
