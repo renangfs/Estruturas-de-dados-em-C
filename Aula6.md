@@ -10,9 +10,9 @@ link : https://web.microsoftstream.com/video/b116be1d-c2b0-4bf8-a9d9-f0e4beb055a
 
 Exercicio area do circulo: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Area_dCirculo.cpp
 
-Exercicio superfície da esfera:https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Area_sEsfera.cpp
+Exercicio superfície da esfera: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Area_sEsfera.cpp
 
-Exercicio area do cilindro:https://github.com/renangfs/Estruturas-de-dados-em-C/new/main
+Exercicio area do cilindro: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Area_dCilindro.cpp
 
 
 
