@@ -20,8 +20,7 @@ Exercicio area do cilindro: https://github.com/renangfs/Estruturas-de-dados-em-C
 <img src="https://user-images.githubusercontent.com/61218420/114648356-09a8c080-9cb5-11eb-8652-db85279e3196.png" width="800">
 <br>
 <br>
-Exercicio: https://github.com/renangfs/Estruturas-de-dados-em-C/new/main
-
+Exercicio: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Calc_Media.cpp
 
 
 
