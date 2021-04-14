@@ -12,7 +12,7 @@ Exercicio area do circulo: https://github.com/renangfs/Estruturas-de-dados-em-C/
 
 Exercicio superfície da esfera:https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Area_sEsfera.cpp
 
-Exercicio area do cilindro:
+Exercicio area do cilindro:https://github.com/renangfs/Estruturas-de-dados-em-C/new/main
 
 
 
