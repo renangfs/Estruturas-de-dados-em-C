@@ -14,7 +14,8 @@ int main(){
 	scanf("%f", &b);
 	printf("\nDigite o terceiro termo da Equação (C):..\n");
 	scanf("%f", &c);
-	equa2gral(a,b,c,&x1,&x2);//necessaria ordem dos parametros igual da função
+	equa2gral(a,b,c,&x1,&x2);//Quando invocamos uma sub-rotina, devemos fornecer para cada um dos seus parâmetros um valor de mesmo tipo,
+	//respeitando a ordem e a quantidade de parâmetros declarados
 	
 	printf("\n\n resultado: %.2f e %.2f\n", x1,x2);
 	system("pause");
