@@ -3,7 +3,7 @@
 - As funções são um tipo especial de procedimento, no qual, depois de executada a chamada, o valor calculado é retornado no nome da função, que passa a ser uma variável da expressão. Ou seja, elas sempre retornam algum valor para quem chamou, diferentemente dos procedimentos, que não retornam valor algum.
 
 <h1 align="center">Parâmetros <br> Reais e Formais</h1>
-<h4>O parametro Real é aquele que realmente tem o dado<br>
-O parametro Formal aquele que define o tipo de dado</h4>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/115082893-009a3800-9edd-11eb-8ca5-f0b06ca49a37.png" width="500"></h1>
+<h4> parâmetro é uma variável que recebe valores passados para sua sub-rotina. Esta utiliza esses valores atribuídos aos parâmetros para alterar o seu comportamento em tempo de execução.</h4>
 
 
