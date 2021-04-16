@@ -24,6 +24,8 @@ Exercicio: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Calc_M
 
 <img src="https://user-images.githubusercontent.com/61218420/115055270-a33fc000-9eb7-11eb-861d-7e382be746be.png" width="800">
 
+Exercicio: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/Equa2gral.cpp
+
 
 
 
