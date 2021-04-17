@@ -13,3 +13,5 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/115110960-565df700-9f54-11eb-8f09-0e4a8f3917c6.png" width="1000"></h1>
 resolução: https://github.com/renangfs/Estruturas-de-dados-em-C/blob/main/3parametros.cpp
+<h1 align="center"><img src="https://user-images.githubusercontent.com/61218420/115118205-7e5f5180-9f78-11eb-8c74-cf63790fc857.png" width="1000"></h1>
+resolução: 
