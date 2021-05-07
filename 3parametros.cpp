@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//solução prova 07/05/2021
 float reajust_sal(float antigo_sal,float porcentual,float *val_reajust){
 	 *val_reajust = antigo_sal;
 	 antigo_sal = porcentual * (antigo_sal/100);	
