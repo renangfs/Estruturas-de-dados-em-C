@@ -8,9 +8,9 @@ float reajust_sal(float antigo_sal,float porcentual,float *val_reajust){
 }
 int main(){
 	float antigo_sal,porcentual,val_reajust=0;
-    	printf("salario a ser reajustado:");
+    	printf("salario a ser reajustado:...");
     	scanf("%f", &antigo_sal);
-    	printf("porcentual de reajuste:");
+    	printf("porcentual de reajuste:...");
     	scanf("%f", &porcentual);
     	reajust_sal(antigo_sal,porcentual,&val_reajust);
     
