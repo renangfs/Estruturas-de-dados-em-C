@@ -14,6 +14,6 @@ int main(){
     	scanf("%f", &porcentual);
     	reajust_sal(antigo_sal,porcentual,&val_reajust);
     
-   	 printf("\nSalario reajustado:%.2f", val_reajust);
+   	printf("\nSalario reajustado:%.2f", val_reajust);
     
 }
