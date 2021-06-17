@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -96,10 +97,22 @@ void media(Fila *fila){
 		}
 		media=media/i;
 	printf("A media salarial e: %.2f\n", media);
-	}
+    }
+    
 }
+void menu(){
+    printf("=============================\n");   
+    printf("Mostrar Cadastros --------- 1\n");
+    printf("Inserir Funcionario ------- 2\n");
+    printf("Maior salario digite ------ 3\n");//maior salario
+    printf("Media Salarial digite ----- 4\n");//media salarial 
+    printf("sair ---------------------- 5\n");
+    printf("=============================\n");  
 
+	
+}
 int main(){
+    int condicao;
 	char *nome[50];
 	float sal;
 	int opcao=0;
@@ -128,6 +141,11 @@ do{
 	scanf("%d",&opcao);
 	if (opcao == 1)	{
 		mostrar(fila);
+		printf("Digite 1 para voltar ao menu...:\n");
+		scanf("%d",&condicao);
+		condicao;
+		if (condicao == 1){
+		menu();}
 	}
 	if (opcao == 2)	{
 		printf("Nome:\n");
@@ -137,15 +155,31 @@ do{
 		printf("%s",nome);
 		printf("%.2f\n",sal);
 		//inserir(fila,*nome,*sal);//.............problemas ao inserir
-
+        printf("Pressione 1 para voltar ao menu...:\n");
+		scanf("%d",&condicao);
+		condicao;
+		if (condicao == 1){
+		menu();}
 	}
-	else if (opcao == 3)	{
+	if (opcao == 3)	{
 		maior(fila);
+		printf("Pressione 1 para voltar ao menu...:\n");
+		scanf("%d",&condicao);
+		condicao;
+		if (condicao == 1){
+		menu();}
+		
 	}
-	else if (opcao == 4)	{
+	if (opcao == 4)	{
 		media(fila);
+		printf("Pressione 1 para voltar ao menu...:\n");
+		scanf("%d",&condicao);
+		condicao;
+		if (condicao == 1){
+		menu();}
+		
 	}
-	else if (opcao == 5)	{
+	if (opcao == 5)	{
 		printf("Saindo...\n");
 		break;
 	}
